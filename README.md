@@ -1,5 +1,5 @@
 # analysis-of-neural-data
-The code here contains homework assignments and demonstration code, all in the form of Jupyter notebooks, from the course Analysis of Neural Data at the University of Oregon (Spring 2021). 
+This page contains homework assignments and demonstration code, all in the form of Jupyter notebooks, from the course Analysis of Neural Data at the University of Oregon (Spring 2021). 
 
 The first homework assignment is a general tutorial introducing Python, with an emphasis on numerical computing with Numpy. This is meant to be useful for anyone who is interested in using Python for technical computing, without assuming any prior knowledge of coding or any particular interest in neuroscience.
 
